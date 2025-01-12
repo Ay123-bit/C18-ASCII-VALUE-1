@@ -17,6 +17,8 @@ printf("The ASCII value of ! is : %d\n", ch9);
 printf("The ASCII value of = is : %d\n", ch10);
 printf("The ASCII value of - is : %d\n", ch11);
 printf("The ASCII value of _ is : %d\n", ch12);
+printf("The ASCII value of * is : %d\n", ch13);
+
 //ch8=%
     return 0;
 }
@@ -32,3 +34,4 @@ The ASCII value of ch8 is : 37
 The ASCII value of ! is : 33
 The ASCII value of = is : 61
 The ASCII value of - is : 45
+The ASCII value of * is : 42
