@@ -1,0 +1,34 @@
+//INPUT
+#include<stdio.h>
+int main(){
+char ch1='A', ch2 ='a', ch3='Z', ch4='z', ch5='@';
+char ch6='#', ch7 ='$', ch8='%', ch9='!', ch10='=';
+char ch11='-', ch12='_';
+
+printf("The ASCII value of A is : %d\n", ch1);
+printf("The ASCII value of a is : %d\n", ch2);
+printf("The ASCII value of Z is : %d\n", ch3);
+printf("The ASCII value of z is : %d\n", ch4);
+printf("The ASCII value of @ is : %d\n", ch5);
+printf("The ASCII value of # is : %d\n", ch6);
+printf("The ASCII value of $ is : %d\n", ch7);
+printf("The ASCII value of ch8 is : %d\n", ch8);
+printf("The ASCII value of ! is : %d\n", ch9);
+printf("The ASCII value of = is : %d\n", ch10);
+printf("The ASCII value of - is : %d\n", ch11);
+printf("The ASCII value of _ is : %d\n", ch12);
+//ch8=%
+    return 0;
+}
+//OUTPUT
+The ASCII value of A is : 65
+The ASCII value of a is : 97
+The ASCII value of Z is : 90
+The ASCII value of z is : 122
+The ASCII value of @ is : 64
+The ASCII value of # is : 35
+The ASCII value of $ is : 36
+The ASCII value of ch8 is : 37
+The ASCII value of ! is : 33
+The ASCII value of = is : 61
+The ASCII value of - is : 45
